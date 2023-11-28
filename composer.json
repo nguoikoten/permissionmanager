@@ -1,5 +1,5 @@
 {
-    "name": "hacoidev/permissionmanager",
+    "name": "chhilltvpack/permissionmanager",
     "description": "Users and permissions management interface for Laravel 5 using Backpack CRUD.",
     "keywords": [
         "tabacitu",
@@ -34,7 +34,7 @@
     "prefer-stable": true,
     "require": {
         "spatie/laravel-permission": "^5.0|^4.0|^3.0",
-        "hacoidev/crud": "^1.0.0"
+        "chhilltvpack/crud": "^1.0.0"
     },
     "require-dev": {
         "phpunit/phpunit" : "^9.0||^7.0",
